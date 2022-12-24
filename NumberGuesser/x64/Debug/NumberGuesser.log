@@ -1,0 +1,4 @@
+﻿  NumberGuesser.cpp
+E:\learn_CPP_by_makings_game\NumberGuesser\NumberGuesser\NumberGuesser.cpp(21,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\learn_CPP_by_makings_game\NumberGuesser\NumberGuesser\NumberGuesser.cpp(49,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  NumberGuesser.vcxproj -> E:\learn_CPP_by_makings_game\NumberGuesser\x64\Debug\NumberGuesser.exe
